@@ -73,11 +73,11 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
     <div align=center>
-      <img align="center" width=396  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+      <img align="center" width=396  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&langs_count=8&theme=algolia&border_color=61dafb&hide_border=true"/>
     </div>
   <br>
   <div align=center>
-  <img src="https://activity-graph.herokuapp.com/graph?username=VedankNaik&theme=algolia&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=VedankNaik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
 </p>
 

@@ -71,7 +71,7 @@
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=VedankNaik&theme=algolia&border=61dafb&hide_border=true" alt="VedankNaik"/>
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=VedankNaik&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true"/>
   </div>
-  <br>
+  <br> <br> <br>
     <div align=center>
       <img align="center" width=396  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
     </div>

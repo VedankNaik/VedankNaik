@@ -73,7 +73,7 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
     <div align=center>
-      <img align="center" width=396  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&langs_count=8&theme=algolia&border_color=61dafb&hide_border=true"/>
+      <img align="center" width=396  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&langs_count=8&layout=compact&theme=algolia&border_color=61dafb&hide_border=true"/>
     </div>
   <br>
   <div align=center>

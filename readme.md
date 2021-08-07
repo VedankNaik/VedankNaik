@@ -68,9 +68,10 @@
 <br>
 <p align=center>
   <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=VedankNaik&theme=algolia&border=61dafb&hide_border=true" alt="VedankNaik"/>
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=VedankNaik&theme=algolia&border=61dafb&hide_border=true" alt="VedankNaik"/>
       <!-- <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=VedankNaik&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true"/> -->
-      <img align="right" width=396  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&langs_count=8&layout=compact&theme=algolia&border_color=61dafb&hide_border=true"/>
+      <br><br><br><br><br><br><br><br><br>
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedankNaik&langs_count=8&layout=compact&theme=algolia&border_color=61dafb&hide_border=true"/>
     </div>
   </div>
   <!-- <br><br><br><br><br><br><br><br><br>

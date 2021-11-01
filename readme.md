@@ -32,7 +32,7 @@
   <code><img title="C" height="25" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
   <code><img title="C++" height="25" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
   <code><img title="C#" height="25" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"></code>
-  <code><img title="Java" height="25" src="hhttps://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"></code>
+  <code><img title="Java" height="25" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"></code>
   <code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python--v2.png"></code>
   <code><img title="Javascript" height="25" src="https://img.icons8.com/color/48/000000/javascript--v2.png "></code>
   <code><img title="PHP" height="25" src="https://img.icons8.com/officel/16/000000/php-logo.png"></code>

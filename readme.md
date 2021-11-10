@@ -39,6 +39,7 @@
   <code><img title="HTML5" height="25" src="https://img.icons8.com/color/64/000000/html-5.png"></code>
   <code><img title="CSS" height="25" src="https://img.icons8.com/color/48/000000/css3.png"></code>
   <code><img title="AngularJS" height="25" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
+  <code><img title="AngularJS" height="25" src="https://img.icons8.com/color/48/000000/react-native.png"></code>
   <code><img title="Laravel" height="25" src="https://img.icons8.com/fluency/48/000000/laravel.png"/></code>
   <code><img title="VueJS" height="25" src="https://img.icons8.com/color/48/000000/vue-js.png"/></code>
   <code><img title="NPM" height="25" src="https://img.icons8.com/color/48/000000/npm.png"></code>

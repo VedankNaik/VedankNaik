@@ -13,10 +13,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Vedank, Software Developer from Goa, India
+  Hi, I'm Vedank, Web Developer from Goa, India
   <br>
   <br>
-  💻 Currently working as Jr. Software Developer
+  💻 Currently working as Jr. Developer
   <br>
   🌐 Learning new technologies
   <br>

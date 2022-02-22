@@ -35,7 +35,7 @@
   <code><img title="Java" height="25" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"></code>
   <code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python--v2.png"></code>
   <code><img title="Javascript" height="25" src="https://img.icons8.com/color/50/000000/javascript--v1.png"></code>
-  <code><img title="PHP" height="25" src="https://img.icons8.com/officel/16/000000/php-logo.png"></code>
+  <code><img title="PHP" height="25" src="https://img.icons8.com/offices/50/000000/php-logo.png"></code>
   <code><img title="HTML5" height="25" src="https://img.icons8.com/color/64/000000/html-5.png"></code>
   <code><img title="CSS" height="25" src="https://img.icons8.com/color/48/000000/css3.png"></code>
   <code><img title="AngularJS" height="25" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
@@ -44,7 +44,7 @@
   <code><img title="VueJS" height="25" src="https://img.icons8.com/color/48/000000/vue-js.png"/></code>
   <code><img title="NPM" height="25" src="https://img.icons8.com/color/48/000000/npm.png"></code>
   <code><img title="NodeJS" height="25"  src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
-  <code><img title="REST API" height="25" src="https://img.icons8.com/nolan/64/api-settings.png"/></code>
+  <code><img title="REST API" height="25" src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-api-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/></code>
   <code><img title="Problem Solving" height="25" src="https://img.icons8.com/color/48/000000/solve-problem.png"></code>
   <code><img title="Git" height="25" src="https://img.icons8.com/color/48/000000/git.png"></code>
   <code><img title="GitHub" height="25" src="https://img.icons8.com/fluency/48/000000/github.png"></code>

@@ -51,8 +51,8 @@
   <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"></code>
   <code><img title="Unity" height="25" src="https://img.icons8.com/color/50/000000/unity.png"></code>
-  <code><img title="Blender 3D" height="25" src="://img.icons8.com/color/48/000000/blender-3d.png"/></code>
-  <code><img title="Android" height="25" src="https://img.icons8.com/color/48/000000/android-os.pngg"></code>
+  <code><img title="Blender 3D" height="25" src="https://img.icons8.com/color/48/000000/blender-3d.png"/></code>
+  <code><img title="Android" height="25" src="https://img.icons8.com/color/48/000000/android-os.png"></code>
   <code><img title="MS SQL Server" height="25" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
   <code><img title="Oracle DB" height="25" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
   <code><img title="MongoDB" height="25"  src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>

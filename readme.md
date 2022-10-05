@@ -10,6 +10,7 @@
   <code><a href="https://www.linkedin.com/in/vedank-naik-192881206/" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/vedankn01" title="HackerRank Profile"><img width="22" src="https://img.icons8.com/windows/50/000000/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/_vedank._/" title="Instagram Profile"><img width="22" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"> Instagram</a></code>
+  <code><a href="https://vedank-naik.vercel.app/" title="Portfolio"><img width="22" src="https://img.icons8.com/stickers/100/000000/v.png"> Vedank Naik</a></code>
 </h5>
 <br>
 <p align="center">

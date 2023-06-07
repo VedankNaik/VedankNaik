@@ -17,7 +17,7 @@
   Hi, I'm Vedank, Web Developer from Goa, India
   <br>
   <br>
-  💻 Currently working as Jr. Developer
+  💻 Currently working as Sr. Developer
   <br>
   🌐 Learning new technologies
   <br>

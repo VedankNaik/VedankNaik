@@ -19,9 +19,7 @@
   <br>
   💻 Currently working as Sr. Developer
   <br>
-  🌐 Learning new technologies
-  <br>
-  🖥️ Likes working with VFX
+  🌐 Learning new technologies 
 </p>
 
 <hr>

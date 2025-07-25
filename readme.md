@@ -1,4 +1,4 @@
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f1b21a64-8fd6-49e2-b92e-219348e64129" /><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VedankNaik">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VedankNaik">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -38,8 +38,8 @@
   <code><img title="MongoDB" height="25"  src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/></code>
   <code><img title="MS SQL Server" height="25" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="ms sql"></code>
   <code><img title="PostgreSQL" height="25" src="https://img.icons8.com/color/100/postgreesql.png" alt="postgreesql"></code>
-  <code><img title="PostgreSQL" height="25" src="https://img.icons8.com/color/100/postgreesql.png" alt="postgreesql"></code>
   <code><img title="Redis" height="25" src="https://img.icons8.com/color/100/redis--v1.png" alt="redis"/></code>
+  <br>
   <code><img title="REST API" height="25" src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-api-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/></code>
   <code><img title="Git" height="25" src="https://img.icons8.com/color/48/000000/git.png"></code>
   <code><img title="Docker" height="25" src="https://img.icons8.com/fluency/48/docker.png"></code>
